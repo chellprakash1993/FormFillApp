@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter name" name="first name" id="first id" required>
     <br>
 
+    <label for="spouse Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter spouse name" name="spouse first name" id="spouse" required>
+    <br>
+
 
     <label for="create psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
