@@ -9,6 +9,11 @@
     <input type="text" placeholder="Enter Email" name="email id" id="email id" required>
     <br>
 
+    <label for="Name"><b>Email</b></label>
+    <input type="text" placeholder="Enter name" name="first name" id="first id" required>
+    <br>
+
+
     <label for="create psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
     <br>
