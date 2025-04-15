@@ -22,10 +22,6 @@
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <br>
-
     <label for="my_son_name"><b>son_name</b></label>
     <input type="pranith" placeholder="Pranith" name="my_son_name" id="my_son_name" required>
     <br>
