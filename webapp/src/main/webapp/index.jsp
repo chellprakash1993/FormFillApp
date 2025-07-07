@@ -20,6 +20,11 @@
     <label for="father  Name"><b>father Name</b></label>
     <input type="text" placeholder="Enter father name" name="father first name" id="father" required>
     <br>
+   
+    <label for="Mother Name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother name" name="Mother first name" id="Mother" required>
+    <br>
+
 
     <label for="create psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
