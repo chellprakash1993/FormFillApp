@@ -25,6 +25,10 @@
     <input type="text" placeholder="Enter Mother name" name="Mother first name" id="Mother" required>
     <br>
 
+     <label for="brother Name"><b>brother Name</b></label>
+     <input type="text" placeholder="Enter brother name" name="brother first name" id="brother" required>
+     <br>
+
 
     <label for="create psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
