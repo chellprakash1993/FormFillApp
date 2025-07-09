@@ -29,6 +29,9 @@
      <input type="text" placeholder="Enter brother name" name="brother first name" id="brother" required>
      <br>
 
+     <label for="Sister Name"><b>sister Name</b></label>
+     <input type="text" placeholder="Enter sister name" name="sister first name" id="sister" required>
+     <br>
 
     <label for="create psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
