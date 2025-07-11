@@ -41,6 +41,11 @@
     <input type="pranith" placeholder="Pranith" name="my_son_name" id="my_son_name" required>
     <br>
 
+    <label for="my_daughter_name"><b>daughter_name</b></label>
+    <input type="suvithe_suthiksha" placeholder="suvitha_suthiksha" name="my_daughter_name" id="my_daughter_name" required>
+    <br>
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
