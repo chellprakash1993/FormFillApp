@@ -13,10 +13,6 @@
     <input type="text" placeholder="Enter name" name="first name" id="first id" required>
     <br>
 
-    <label for="spouse Name"><b>spouse Name</b></label>
-    <input type="text" placeholder="Enter spouse name" name="spouse first name" id="spouse" required>
-    <br>
-
     <label for="father  Name"><b>father Name</b></label>
     <input type="text" placeholder="Enter father name" name="father first name" id="father" required>
     <br>
