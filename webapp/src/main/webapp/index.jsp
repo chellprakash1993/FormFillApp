@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter name" name="first name" id="first id" required>
     <br>
 
+    <label for="spouse Name"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Enter spouse name" name="spouse first name" id="spouse" required>
+    <br>
+
     <label for="father  Name"><b>father Name</b></label>
     <input type="text" placeholder="Enter father name" name="father first name" id="father" required>
     <br>
@@ -21,15 +25,20 @@
     <input type="text" placeholder="Enter Mother name" name="Mother first name" id="Mother" required>
     <br>
 
-     <label for="brother Name"><b>brother Name</b></label>
-     <input type="text" placeholder="Enter brother name" name="brother first name" id="brother" required>
-     <br>
+    <label for="brother Name"><b>brother Name</b></label>
+    <input type="text" placeholder="Enter brother name" name="brother first name" id="brother" required>
+    <br>
+
+    <label for="Brother Wife  Name"><b>Brother Wife  Name</b></label>
+    <input type="text" placeholder="Enter Brother Wife  Name" name="Brother Wife  Name first name" id="Brother Wife  Name" required>
+    <br>
+
 
      <label for="Sister Name"><b>sister Name</b></label>
      <input type="text" placeholder="Enter sister name" name="sister first name" id="sister" required>
      <br>
 
-    <label for="create psw"><b>Password</b></label>
+    <label for="create psw"><>Password</b></label>
     <input type="password" placeholder="Enter Password" name="create psw" id="create psw" required>
     <br>
 
